@@ -15,7 +15,7 @@ In order to input an accurate Analog Output into the mbed, Vcc should be connect
 
 ## Wiring
 
-Table 1 describes how to wire the microphone to the mbed. In additon Table 2 displays the connections between the speaker, the record button, and playback button are connected to the mbed. See the linked pages in the demo section for more information on how to hook up these components.
+Table 1 describes how to wire the microphone to the mbed. In additon, Table 2 displays the connections between the speaker, the record button, and playback button that are connected to the mbed. See the linked pages in the demo section for more information on how to hook up these components.
 
 |Microphone  | MBED |
 |--|--|
